@@ -1,0 +1,3 @@
+[submodule "myDataBase"]
+	path = myDataBase
+	url = https://github.com/sjrim/myDataBase.git
